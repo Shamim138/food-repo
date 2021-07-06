@@ -1,0 +1,39 @@
+
+body{font-family: 'Roboto', sans-serif;}
+.part-1{display: flex;
+
+
+}
+.part-1-left{width: 50%;
+
+
+}
+h1{font-size: 4em;
+    font-family: 'Roboto', sans-serif;
+}
+.purple-color{
+    color: purple;
+}
+.order-button{text-decoration: none;
+    
+
+
+}
+.part-2{background-image: url(images/food/shapes/7.png);
+background-repeat: no-repeat;
+background-size: cover;
+}
+.part-1-right{width: 50%;
+
+}
+.part-2{display: flex;
+
+
+}
+.about-me{
+
+}
+.contact-button{text-decoration: none;
+
+
+}
