@@ -1,5 +1,11 @@
 
 body{font-family: 'Roboto', sans-serif;}
+#title-Food-web{text-align: center;
+font-weight: bolder;
+background-image: url(images/food/food/Project\ Cover4.png);
+height: 5em;
+color: papayawhip;
+font-size: xx-large;}
 .part-1{display: flex;
 
 
@@ -15,10 +21,9 @@ h1{font-size: 4em;
     color: purple;
 }
 .order-button{text-decoration: none;
-    background-image: linear-gradient(purple,rgb(15, 1, 1));
+    background-image: linear-gradient(purple,rgb(252, 84, 17));
     width: 16em;
-    color: whitesmoke;
-    background-color: orchid;
+    color: rgb(255, 255, 255);
 padding: 5px 8px;
 border-radius: 2px;
 font-weight: 700;
@@ -47,5 +52,9 @@ padding: 5px 8px;
 border-radius: 2px;
 font-weight: 700;
     border-radius: 30px;
+
+}
+#text-a-cen{text-align: center;}
+.food-img-box{
 
 }
