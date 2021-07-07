@@ -1,18 +1,14 @@
 
-body{font-family: 'Roboto', sans-serif;}
+body{font-family: 'Poppins', sans-serif;}
 #title-Food-web{text-align: center;
 font-weight: bolder;
 background-image: url(images/food/food/Project\ Cover4.png);
 height: 5em;
-color: papayawhip;
+color: rgb(255, 254, 251);
 font-size: xx-large;}
 .part-1{display: flex;
-
-
 }
 .part-1-left{width: 50%;
-
-
 }
 h1{font-size: 4em;
     font-family: 'Roboto', sans-serif;
@@ -24,7 +20,7 @@ h1{font-size: 4em;
     background-image: linear-gradient(purple,rgb(252, 84, 17));
     width: 16em;
     color: rgb(255, 255, 255);
-padding: 5px 8px;
+padding: 10px 15px ;
 border-radius: 2px;
 font-weight: 700;
     border-radius: 30px;}
@@ -34,26 +30,22 @@ background-size: cover;
 background-attachment: fixed;
 }
 .part-1-right{width: 50%;
-
 }
 .part-2{display: flex;
-
-
-}
-.about-me{
-
 }
 .contact-button{text-decoration: none;
     background-image: linear-gradient(rgb(140, 219, 88),rgb(24, 12, 12));
     width: 16em;
-    color: whitesmoke;
+    color: rgb(255, 253, 253);
     background-color: orchid;
-padding: 5px 8px;
+padding:15px 20px;
 border-radius: 2px;
 font-weight: 700;
     border-radius: 30px;
 }
-#text-a-cen{text-align: center;}
+#text-a-cen{text-align: center;
+margin-left: 35%;
+margin-right: 35%;}
 .box-pic{display: flex;
     width: 100%;
     height: 170%;
@@ -95,3 +87,79 @@ padding-top: 1%;}
 border-image: 10%;
 padding-top: 1%;
 }
+.box-2{display: flex;
+    width: 100%;
+    box-shadow: 2px 2px 8px ;
+    margin-top: 200px; 
+    height: 2%;
+    border-radius: 10px;
+    margin-left: 15px;
+    margin-right: 10px;
+}
+.class-text{
+    width: 100%;
+    
+}
+.yt{width: 33%;
+    margin-left: 8%;
+    margin-right: 10%;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-bottom: 10px;
+    border-radius: 10px;
+border-image: 10%;
+padding-top: 1%;
+
+}
+.ingm{
+    width: 33%;
+    margin-left: 2%;
+    margin-right: 10%;
+    padding-left: 1%;
+    padding-right: 1%;
+    border-radius: 10px;
+border-image: 10%;
+padding-top: 1%;
+}
+.github{
+    width: 33%;
+    margin-left: 0%;
+    margin-right: 1%;
+    padding-left: 1%;
+    padding-right: 0%;
+    border-radius: 10px;
+border-image: 10%;
+padding-top: 1%;
+}
+#text-footerBox{
+    background-color: black;
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    color: rgb(196, 162, 26);
+    padding-top: 0.5%;
+    padding-bottom: 1%;
+    box-shadow:rgb(88, 65, 65) ;
+    border-radius: 10px;
+    margin-top: 100px;}
+.gold-color{
+    color: rgb(23, 153, 204);
+}
+.media-link{text-align: center;
+    color: darkblue;
+
+}
+.social-icon{align : center;
+    margin: 10px 5px 10px 20px;
+
+
+    
+
+}
+.social-icon img{
+    
+    width: 5%;
+    border-radius: 10px;
+    
+}
+
