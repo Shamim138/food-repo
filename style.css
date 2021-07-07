@@ -149,13 +149,8 @@ padding-top: 1%;
     color: darkblue;
 
 }
-.social-icon{align : center;
-    margin: 10px 5px 10px 20px;
-
-
-    
-
-}
+.social-icon{
+    margin: 10px 5px 10px 20px;}
 .social-icon img{
     
     width: 5%;
